@@ -75,7 +75,7 @@ npm start
 
 ---
 
-## 📸 Captura de pantalla (opcional)
+## 📸 Captura de pantalla 
 
 ![Formulario funcionando](./img/formulario.png)
 
