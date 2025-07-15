@@ -80,9 +80,8 @@ npm start
 Puedes agregar aquí una imagen de tu app corriendo:
 
 ```markdown
-![Formulario funcionando](.img\formulario.png)
+![Formulario funcionando](./img/formulario.png)
 ```
-
 ---
 
 ## 📁 Estructura del proyecto
