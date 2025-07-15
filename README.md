@@ -77,9 +77,6 @@ npm start
 
 ## 📸 Captura de pantalla (opcional)
 
-Puedes agregar aquí una imagen de tu app corriendo:
-
-
 ![Formulario funcionando](./img/formulario.png)
 
 ---
